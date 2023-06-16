@@ -1,0 +1,284 @@
+.menu{
+    background: rgba(165, 36, 211, 0.41);
+    height: 140px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around; 
+    }
+    
+    .botao{
+    z-index: 7px;
+    }
+    .pat{
+        position: absolute;
+        width: 158px;
+        height: 21px;
+        left: 576px;
+        top: 63px;
+        
+        font-family: 'Anybody';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 29px;
+        text-align: center;
+        
+        color: #000000;
+    
+    color: #000000;
+    }
+    .cadastro{
+        position: absolute;
+        width: 216px;
+        height: 21px;
+        left: 795px;
+        top: 62px;
+        
+        font-family: 'Anybody';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 29px;
+        text-align: center;
+        
+        color: #000000;
+    
+    }
+    .info{
+        position: absolute;
+        width: 261px;
+        height: 24px;
+        left: 254px;
+        top: 63px;
+        
+        font-family: 'Anybody';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 29px;
+        text-align: center;
+        
+        color: #000000;
+    
+    color: #000000;
+    }
+    .festa{
+        position: absolute;
+    width: 309px;
+    height: 13px;
+    left: 1093px;
+    top: 63px;
+    
+    font-family: 'Anybody';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    .imagem1{
+        position: absolute;
+        width: 234px;
+        height: 151px;
+        left: 5px;
+        top: 0px;
+        
+        background: url(image.png);
+        border-radius: 60.5px;
+    }
+    .imagem2{
+        position: absolute;
+    width: 1458px;
+    height: 869px;
+    left: 3px;
+    top: 147px;
+    
+    background: url(image.png);
+    border: 0px solid #000000;
+    box-shadow: inset 0px 4px 30px rgba(0, 0, 0, 0.35);
+    
+    }
+    
+    .imagem4{
+        position: absolute;
+        width: 1370px;
+        height: 754px;
+        left: 75px;
+        top: 231px;
+        
+        background: url(image.png);
+    }
+    .imagem5{
+        
+    position: absolute;
+    width: 1445px;
+    height: 857px;
+    left: 11px;
+    top: 142px;
+    
+    background: url(image.png);
+    
+    }
+    .imagem6{
+        position: absolute;
+        width: 1445px;
+        height: 857px;
+        left: 11px;
+        top: 142px;
+        
+        background: url(image.png);
+    }
+    .imagem7{
+        position: absolute;
+    width: 190px;
+    height: 182px;
+    left: 997px;
+    top: 416px;
+    
+    background: url(image.png);
+    border-radius: 109px;
+    }
+    .imagem8{
+        position: absolute;
+    width: 244px;
+    height: 301px;
+    left: 1189px;
+    top: 249px;
+    
+    
+    background: url(image.png);
+    border-radius: 139px;
+    }
+    .imagem9{
+        position: absolute;
+        left: 9.55%;
+        right: 87.96%;
+        top: 59.15%;
+        bottom: 37.01%;
+    }
+    
+    .imagem10{
+        position: absolute;
+    width: 454px;
+    height: 435px;
+    left: 40px;
+    top: 194px;
+    
+    background: url(.png);
+    border-radius: 250px;
+    }
+    .btn-wrap{
+        position:relative;
+        text-align:center;
+    }
+    
+    .thumbnail-wrapper {
+        display:inline-block;
+        position:relative;
+    }
+    .thumbnail-wrapper {
+        display:inline-block;
+        position:relative;
+    }
+    .CACHORRO{
+        width: 98vw;
+    }
+   .animais{
+    position: absolute;
+width: 805px;
+height: 319px;
+left: 618px;
+top: 378px;
+
+font-family: 'Alike Angular';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 124.18%;
+/* or 45px */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+   }
+   .avanca{
+    position: absolute;
+width: 335px;
+height: 52px;
+left: 1016px;
+top: 138px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+   }
+   .gatinho{
+    position: absolute;
+width: 1424px;
+height: 960px;
+left: 24px;
+top: 0px;
+
+background: url(image.png);
+filter: blur(5px);
+   }
+   .agenda{
+    position: absolute;
+width: 942px;
+height: 49px;
+left: 265px;
+top: 480px;
+
+font-family: 'Alice';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 55px;
+text-align: center;
+
+color: #FFF9E3;
+
+position: absolute;
+width: 894px;
+height: 82px;
+left: 313px;
+top: 461px;
+
+background: rgba(0, 104, 17, 0.85);
+   }
+   .botao{
+    position: absolute;
+width: 350px;
+height: 52px;
+left: 79px;
+top: 789px;
+
+font-family: 'Belgrano';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 81px;
+text-align: center;
+
+color: rgba(165, 36, 211, 0.41);
+
+
+position: absolute;
+width: 388px;
+height: 130px;
+left: 53px;
+top: 764px;
+
+background: #FFF9E3;
+   }
